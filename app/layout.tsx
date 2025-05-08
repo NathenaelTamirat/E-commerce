@@ -13,7 +13,6 @@ export const metadata: Metadata = {
   description: "Professional e-commerce store with the latest products",
   keywords: ["e-commerce", "online store", "shopping"],
   authors: [{ name: "Nathenael Tamirat", url: "tel:+251991439979" }],
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
